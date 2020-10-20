@@ -8,7 +8,7 @@ all: \
 	_show-filesize _run
 
 _prepare:
-	$(RM) -rf bin
+	$(RM) -r bin
 	mkdir -p bin
 	@echo '-----------------------------------------------------------'
 
