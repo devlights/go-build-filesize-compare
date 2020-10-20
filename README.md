@@ -24,6 +24,7 @@ UBUNTU_CODENAME=focal
 ```
 
 ```sh
+$ make
 rm -f -r bin
 mkdir -p bin
 -----------------------------------------------------------
