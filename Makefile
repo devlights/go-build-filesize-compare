@@ -5,7 +5,8 @@ all: \
 	_with-trimpath \
 	_with-ldflags-trimpath \
 	_with-upx \
-	_show-filesize _run
+	_show-filesize \
+	_run
 
 _prepare:
 	$(RM) -r bin
