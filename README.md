@@ -92,6 +92,7 @@ sys 0.01
 - [よく使うGoのBuildオプションと、UPXの圧縮がバイナリサイズにどの程度影響しているか調べた](https://qiita.com/laqiiz/items/80c103e719346f398b37)
 - [[v1.13版] goでスタティックバイナリを生成する方法](https://iguchitomokatsu.com/posts/how-to-make-static-binary-of-golang/)
 - [go tool link](https://golang.org/cmd/link/)
+- [go build (Compile packages and dependencies)](https://golang.org/cmd/go/#hdr-Compile_packages_and_dependencies)
 - [[Linux]wcコマンドの意外な使い方](https://cammy.co.jp/technical/2016/09/29/linuxwc%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E4%BB%A5%E5%A4%96%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/)
 - [Remove the last line from a file in Bash](https://stackoverflow.com/questions/4881930/remove-the-last-line-from-a-file-in-bash)
 - [デバッグ情報の歩き方](https://qiita.com/mhiramat/items/8df17f5113434e93ff0c)
